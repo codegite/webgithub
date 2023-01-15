@@ -1,0 +1,44 @@
+
+
+    h1{
+            color: rgb(208, 45, 45);
+    }
+    p
+{
+color: blue;
+margin: 25px 50px 40px;
+}
+body {
+background-color: blanchedalmond;
+font-family: tahoma;
+}
+
+.bigtitle {
+background-color: purple;
+color: white;
+padding: 10px;
+}
+#promotion {
+background-color: red;
+color: white;
+padding: 10px;
+margin: auto;
+margin-top: 20px;
+margin-bottom: 30px;
+width: 400px;
+border: 5px solid blue;
+border-radius: 10px;
+text-align: center;
+}
+
+        table,
+        th,
+        td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 8px;
+        }
+        table {
+        width: 400px;
+        }
+        
